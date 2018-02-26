@@ -21,7 +21,7 @@ public class Tarea3 {
         Menu llamada1=new Menu();//llamamos a la clase (en este caso es Menu())
         llamada1.menu();//llamamos al metodo de la clase Menu() y este metodo en este caso es menu()
         
-        System.out.println("fsfs");
+        
     }
 
 }
